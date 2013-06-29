@@ -1,0 +1,42 @@
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\NoteWindow.baml
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\NoteWindow.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\App.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes_MarkupCompile.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.g.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.Properties.Resources.resources
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\BASeNotes.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\BASeNotes.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes_MarkupCompile.lref
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\WPFToolkit.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\MyFormattingBar.baml
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\MyFormattingBar.g.cs
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\BASeNotes.exe.config
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\Properties\SettingsPage.baml
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\Properties\SettingsPage.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\BASeNotes.exe.config
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.exe
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\BASeNotes.exe
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\BASeNotes.pdb
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\WPFToolkit.dll
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\MyFormattingBar.baml
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\MyFormattingBar.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\NoteWindow.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\Properties\SettingsPage.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\App.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes_MarkupCompile.cache
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes_MarkupCompile.lref
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\NoteWindow.baml
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\Properties\SettingsPage.baml
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.g.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.Properties.Resources.resources
+C:\Users\BC_Programming\My Documents\visual studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.csproj.GenerateResource.Cache
+C:\Users\BC_Programming\Documents\Visual Studio 2008\Projects\BASeNotes\BASeNotes\obj\Debug\BASeNotes.csprojResolveAssemblyReference.cache

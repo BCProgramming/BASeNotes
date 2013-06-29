@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="BASeNotes.MyFormattingBar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Margin="0,0,0,0" Loaded="UserControl_Loaded" Opacity="0.90" Height="125" Width="206">
+    <WrapPanel Margin="0,0,0,0">
+        <ToolBar Margin="0,0,0,0" Band="1" BandIndex="1">
+            <ToolBar.Items>
+                
+                <Button Name="cmdCut" >
+                    <Image Source="Resources/edit-cut.png" Width="16" Height="16"></Image>
+                </Button>
+                <Button Name="cmdCopy">
+                    <Image Source="Resources/edit-copy.png" Width="16" Height="16"></Image>
+                </Button>
+                <Button Name="cmdPaste">
+                    <Image Source="Resources/edit-Paste.png" Width="16" Height="16"></Image>
+                </Button>
+                
+            </ToolBar.Items>
+            
+            </ToolBar>
+        <ToolBar Margin="0,0,0,0" Band="2" BandIndex="2">
+            <ToolBar.Items>
+                <ToggleButton Name="FormatBold" Click="FormatBold_Click" ToolTip="Toggle Bold">
+                    <Image Source="Resources/format-text-bold.png" Width="16" Height="16"></Image>
+
+                </ToggleButton>
+                <ToggleButton Name="FormatItalic" Click="FormatItalic_Click" ToolTip="Toggle Italics">
+                    <Image Source="Resources/format-text-italic.png" Width="16" Height="16"></Image>
+                </ToggleButton>
+                <ToggleButton Name="FormatUnderline" Click="FormatUnderline_Click" ToolTip="Toggle Underline">
+                    <Image Source="Resources/format-text-underline.png" Width="16" Height="16"></Image>
+                </ToggleButton>
+
+            </ToolBar.Items>
+        </ToolBar>
+        <ToolBar Margin="0,0,0,0" Band="3" BandIndex="3">
+            <ToolBar.Items>
+                <CheckBox Name="FormatAlignLeft" ToolTip="Align Left">
+                    <Image Source="Resources/format-justify-left.png" Width="16" Height="16"></Image>
+                </CheckBox>
+                <CheckBox Name="FormatAlignCenter" ToolTip="Align Center">
+                    <Image Source="Resources/format-justify-center.png" Width="16" Height="16"></Image>
+                </CheckBox>
+                <CheckBox Name="FormatAlignRight" ToolTip="Align Right">
+                    <Image Source="Resources/format-justify-right.png"  Width="16" Height="16"></Image>
+                </CheckBox>
+                
+            </ToolBar.Items>
+            
+        </ToolBar>
+        <ToolBar Margin="0,0,0,0" BandIndex="4" Band="4">
+            
+            <ToolBar.Items>
+                <ComboBox Name="ComboFont" Margin="0,0,0,0" Text="Select Font" ItemsSource="{Binding Source={x:Static Member=Fonts.SystemFontFamilies}}" Width="Auto" SelectionChanged="ComboBox_SelectionChanged">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock FontSize="14" FontFamily="{Binding .}" Text="{Binding Source}"/>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+
+
+            </ToolBar.Items>
+            
+        </ToolBar>
+    </WrapPanel>
+</UserControl>

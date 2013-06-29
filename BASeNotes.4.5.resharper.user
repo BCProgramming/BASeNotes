@@ -1,0 +1,413 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Debug" priority="2" />
+      <Item value="private" priority="10" />
+      <Item value="ToolbarObject" priority="0" />
+      <Item value="RichTextBox" priority="10" />
+      <Item value="ToolBarPanel" priority="1" />
+      <Item value="Button" priority="2" />
+      <Item value="sender" priority="4" />
+      <Item value="as" priority="7" />
+      <Item value="clickeditem" priority="0" />
+      <Item value="ToolBar" priority="2" />
+      <Item value="VisualTreeHelper" priority="1" />
+      <Item value="parenttoolbar" priority="0" />
+      <Item value="AssemblyLoadEventHandler" priority="3" />
+      <Item value="Expander" priority="1" />
+      <Item value="expandit" priority="1" />
+      <Item value="return" priority="14" />
+      <Item value="gotbox" priority="0" />
+      <Item value="buttonfor" priority="1" />
+      <Item value="Getboxforbutton" priority="0" />
+      <Item value="if" priority="16" />
+      <Item value="null" priority="8" />
+      <Item value="workBox" priority="0" />
+      <Item value="boxfor" priority="1" />
+      <Item value="StackPanel" priority="1" />
+      <Item value="spanel" priority="0" />
+      <Item value="GetToolbarforTextBox" priority="0" />
+      <Item value="rtext" priority="0" />
+      <Item value="barbox" priority="1" />
+      <Item value="grdDataContentMultiple" priority="0" />
+      <Item value="ListBox" priority="0" />
+      <Item value="lbox" priority="1" />
+      <Item value="exp" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="Windows" priority="2" />
+      <Item value="_Target" priority="22" />
+      <Item value="value" priority="2" />
+      <Item value="void" priority="4" />
+      <Item value="cmdCut" priority="1" />
+      <Item value="String" priority="12" />
+      <Item value="cmdCopy" priority="2" />
+      <Item value="cmdPaste" priority="0" />
+      <Item value="Clipboard" priority="4" />
+      <Item value="DataFormats" priority="3" />
+      <Item value="Target" priority="0" />
+      <Item value="RefreshBar" priority="1" />
+      <Item value="TextAlignment" priority="3" />
+      <Item value="FormatAlignLeft" priority="2" />
+      <Item value="FormatAlignCenter" priority="0" />
+      <Item value="FormatAlignRight" priority="0" />
+      <Item value="public" priority="11" />
+      <Item value="delegate" priority="0" />
+      <Item value="SetRTBValue" priority="0" />
+      <Item value="callbackfunc" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="Paragraph" priority="1" />
+      <Item value="EditingCommands" priority="6" />
+      <Item value="FormatBold" priority="1" />
+      <Item value="FormatItalic" priority="2" />
+      <Item value="FormatUnderline" priority="2" />
+      <Item value="Formatstrikethrough" priority="0" />
+      <Item value="ComboBox" priority="0" />
+      <Item value="ChangeTextProperty" priority="0" />
+      <Item value="ComboFont" priority="0" />
+      <Item value="mnuNotes" priority="0" />
+      <Item value="mnuNotesDelete" priority="0" />
+      <Item value="lstNotes" priority="18" />
+      <Item value="mLoadedFile" priority="12" />
+      <Item value="_Notes" priority="5" />
+      <Item value="ObservableCollection" priority="2" />
+      <Item value="NoteItem" priority="3" />
+      <Item value="MessageBox" priority="5" />
+      <Item value="bool" priority="0" />
+      <Item value="false" priority="4" />
+      <Item value="isDirty" priority="3" />
+      <Item value="true" priority="4" />
+      <Item value="usemessage" priority="1" />
+      <Item value="switch" priority="0" />
+      <Item value="Microsoft" priority="2" />
+      <Item value="Controls" priority="1" />
+      <Item value="MessageBoxButton" priority="2" />
+      <Item value="MessageBoxResult" priority="2" />
+      <Item value="break" priority="0" />
+      <Item value="loadeddata" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="BinaryFormatter" priority="1" />
+      <Item value="FileStream" priority="1" />
+      <Item value="new" priority="6" />
+      <Item value="sFilename" priority="1" />
+      <Item value="FileMode" priority="0" />
+      <Item value="sformatter" priority="0" />
+      <Item value="outstream" priority="0" />
+      <Item value="Title" priority="1" />
+      <Item value="this" priority="2" />
+      <Item value="Path" priority="0" />
+      <Item value="CommonDialog" priority="0" />
+      <Item value="SaveFileDialog" priority="1" />
+      <Item value="sfd" priority="5" />
+      <Item value="else" priority="1" />
+      <Item value="SaveNotes" priority="2" />
+      <Item value="Win32" priority="0" />
+      <Item value="OpenFileDialog" priority="1" />
+      <Item value="ofd" priority="2" />
+      <Item value="static" priority="3" />
+      <Item value="const" priority="0" />
+      <Item value="CheckFileExists" priority="0" />
+      <Item value="AddExtension" priority="0" />
+      <Item value="Filter" priority="0" />
+      <Item value="BaseNotesFileFilter" priority="0" />
+      <Item value="LoadNotes" priority="1" />
+      <Item value="UpdateState" priority="0" />
+      <Item value="Application" priority="1" />
+      <Item value="AppDomain" priority="0" />
+      <Item value="Close" priority="1" />
+      <Item value="AddHandler" priority="0" />
+      <Item value="returnval" priority="0" />
+      <Item value="DateTime" priority="5" />
+      <Item value="ValueSerializer" priority="0" />
+      <Item value="CreationDate" priority="2" />
+      <Item value="ModifiedDate" priority="2" />
+      <Item value="SerializationInfo" priority="0" />
+      <Item value="StreamingContext" priority="0" />
+      <Item value="info" priority="8" />
+      <Item value="Name" priority="2" />
+      <Item value="Note" priority="1" />
+      <Item value="typeof" priority="2" />
+      <Item value="foreach" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="in" priority="1" />
+      <Item value="itemloop" priority="0" />
+      <Item value="creatednote" priority="0" />
+      <Item value="pName" priority="0" />
+      <Item value="NoteText" priority="0" />
+      <Item value="Settings" priority="0" />
+      <Item value="e" priority="2" />
+      <Item value="GetObjectDataFromPoint" priority="0" />
+      <Item value="objuse" priority="0" />
+      <Item value="ListBoxItem" priority="1" />
+      <Item value="litem" priority="2" />
+      <Item value="lstNotes_SelectionChanged" priority="0" />
+      <Item value="SelectionChangedEventArgs" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="mTags" priority="0" />
+      <Item value="Tags" priority="5" />
+      <Item value="loopadd" priority="0" />
+      <Item value="PropertyChangedCallback" priority="0" />
+      <Item value="DependencyObject" priority="1" />
+      <Item value="DependencyPropertyChangedEventArgs" priority="3" />
+      <Item value="dpe" priority="1" />
+      <Item value="dp" priority="1" />
+      <Item value="TextBox" priority="1" />
+      <Item value="usebox" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="HashSet" priority="0" />
+      <Item value="Thread" priority="3" />
+      <Item value="HashSet&lt;Thread&gt;" priority="0" />
+      <Item value="threadset" priority="4" />
+      <Item value="readonly" priority="0" />
+      <Item value="DependencyProperty" priority="2" />
+      <Item value="RichTextBoxHelper" priority="0" />
+      <Item value="FrameworkPropertyMetadataOptions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Print" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.VisualTreeHelper">
+      <Item value="GetParent" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="Children" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ToolBar">
+      <Item value="Items" priority="1" />
+      <Item value="ItemsPanel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="SelectedItems" priority="3" />
+      <Item value="Items" priority="5" />
+      <Item value="Height" priority="0" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="SelectedItem" priority="1" />
+      <Item value="ItemsSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
+      <Item value="Children" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Expander">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="IsEnabled" priority="2" />
+      <Item value="CommandTarget" priority="0" />
+      <Item value="Command" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RichTextBox">
+      <Item value="Selection" priority="6" />
+      <Item value="Document" priority="3" />
+      <Item value="Cut" priority="0" />
+      <Item value="Copy" priority="0" />
+      <Item value="Paste" priority="0" />
+      <Item value="SelectionChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Clipboard">
+      <Item value="GetData" priority="0" />
+      <Item value="ContainsData" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.DataFormats">
+      <Item value="StringFormat" priority="0" />
+      <Item value="Xaml" priority="0" />
+      <Item value="Bitmap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.FlowDocument">
+      <Item value="TextAlignment" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.TextAlignment">
+      <Item value="Left" priority="1" />
+      <Item value="Right" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.CheckBox">
+      <Item value="IsChecked" priority="2" />
+      <Item value="CommandTarget" priority="0" />
+      <Item value="Command" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.TextSelection">
+      <Item value="GetPropertyValue" priority="1" />
+      <Item value="ApplyPropertyValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Documents.Paragraph">
+      <Item value="TextAlignmentProperty" priority="1" />
+      <Item value="SetFontFamily" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Primitives.ToggleButton">
+      <Item value="CommandTarget" priority="3" />
+      <Item value="Command" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Documents.EditingCommands">
+      <Item value="ToggleBold" priority="0" />
+      <Item value="ToggleItalic" priority="0" />
+      <Item value="ToggleUnderline" priority="1" />
+      <Item value="AlignLeft" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="SelectedItem" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Windows.Controls.RichTextBox">
+      <Item value="FontFamilyProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="0" />
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.MenuItem">
+      <Item value="IsEnabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetFileName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Windows.Controls.MessageBox">
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="YesNoCancel" priority="0" />
+      <Item value="YesNo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxResult">
+      <Item value="Yes" priority="1" />
+      <Item value="No" priority="0" />
+      <Item value="Cancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+      <Item value="Serialize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeNotes.NoteWindow">
+      <Item value="SetBinding" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.SaveFileDialog">
+      <Item value="AddExtension" priority="0" />
+      <Item value="Filter" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add" priority="0" />
+      <Item value="Remove" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.SerializationInfo">
+      <Item value="AddValue" priority="3" />
+      <Item value="GetString" priority="1" />
+      <Item value="GetDateTime" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BASeNotes.Properties.Settings">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BASeNotes.Properties.Settings">
+      <Item value="Save" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.DependencyProperty">
+      <Item value="UnsetValue" priority="0" />
+      <Item value="RegisterAttached" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.DragEventArgs">
+      <Item value="GetPosition" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="CollectionChanged" priority="0" />
+      <Item value="Clear" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.DependencyPropertyChangedEventArgs">
+      <Item value="ToString" priority="0" />
+      <Item value="NewValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="TextChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.HashSet`1">
+      <Item value="Contains" priority="0" />
+      <Item value="Add" priority="0" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/d:Properties/f:Resources.resx" caret="5248" fromTop="69" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:MyFormattingBar.xaml" caret="231" fromTop="3" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:MyFormattingBar.xaml.cs" caret="8026" fromTop="44" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/d:Properties/f:Settings.Designer.cs" caret="2433" fromTop="35" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/d:Properties/f:SettingsPage.xaml" caret="483" fromTop="7" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/d:Properties/f:SettingsPage.xaml.cs" caret="833" fromTop="32" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:RichTextBoxHelper.cs" caret="1119" fromTop="10" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:TextBoxListHelper.cs" caret="886" fromTop="29" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:App.xaml" caret="0" fromTop="0" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml" caret="3964" fromTop="7" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml.cs" caret="3233" fromTop="22" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteItem.cs" caret="464" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/d:Properties/f:SettingsPage.xaml" caret="483" fromTop="7" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/d:Properties/f:SettingsPage.xaml.cs" caret="818" fromTop="17" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml.cs" caret="14755" fromTop="24" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml.cs" caret="15087" fromTop="13" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml.cs" caret="15258" fromTop="17" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml.cs" caret="15514" fromTop="27" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml" caret="3083" fromTop="8" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml" caret="2647" fromTop="2" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml" caret="2967" fromTop="5" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml.cs" caret="11994" fromTop="19" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml.cs" caret="15981" fromTop="34" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteItem.cs" caret="1022" fromTop="19" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteItem.cs" caret="954" fromTop="17" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteItem.cs" caret="813" fromTop="15" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:RichTextBoxHelper.cs" caret="1261" fromTop="18" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:RichTextBoxHelper.cs" caret="1617" fromTop="21" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml" caret="7243" fromTop="5" />
+      <File id="864F0F0D-5CA9-4E1A-9CD8-109EA7FFA073/f:NoteWindow.xaml.cs" caret="11805" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
