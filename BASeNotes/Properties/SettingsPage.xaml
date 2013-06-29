@@ -7,7 +7,8 @@
     <Grid>
         <CheckBox Height="18" Margin="12,9,24,0" Name="checkBox1" VerticalAlignment="Top" IsChecked="{Binding Source={x:Static p:Settings.Default}, Path=DoAutoload, Mode=TwoWay}">Autoload from File:</CheckBox>
         <TextBox Height="22" Margin="32,33,8,0" Name="textBox1" VerticalAlignment="Top" DataContext="Path:Autoloadfile" Text="{Binding Source={x:Static p:Settings.Default}, Path=Autoloadfile, Mode=TwoWay}"/>
-        <Button Height="23" Margin="107,0,93,12" Name="cmdCancel" VerticalAlignment="Bottom" Click="button1_Click" IsCancel="True">Cancel</Button>
+        <Button Height="21.96" Margin="47,0,172,13.04" Name="cmdCancel" VerticalAlignment="Bottom" Click="button1_Click" IsCancel="True">Cancel</Button>
         <Button Height="23" Margin="0,0,9,12" Name="cmdOK" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="78" IsDefault="True" Click="cmdOK_Click">OK</Button>
+        <Button Name ="cmdApply" HorizontalAlignment="Left" Margin="127,130,0,0" VerticalAlignment="Top" Width="75" Click="cmdApply_Click">Apply</Button>
     </Grid>
 </Window>

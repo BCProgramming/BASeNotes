@@ -45,7 +45,7 @@
                 
             <MenuItem Header="Notes" Name="mnuNotes" ContextMenuOpening="mnuNotes_ContextMenuOpening">
                 <MenuItem Header="New" Name="mnuNotesNew" Click="mnuNotesNew_Click"/>
-                <MenuItem Header="Delete" Name="mnuNotesDelete" Click="mnuNotesDelete_Click"></MenuItem> http://i.imgur.com/ShYCwiQ.jpg
+                <MenuItem Header="Delete" Name="mnuNotesDelete" Click="mnuNotesDelete_Click"></MenuItem>
 
             </MenuItem>
             <MenuItem Header="About" Name="mnuAbout" Click="mnuAbout_Click"  >

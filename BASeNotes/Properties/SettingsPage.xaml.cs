@@ -27,10 +27,19 @@ namespace BASeNotes.Properties
         {
             Close();
         }
-
-        private void cmdOK_Click(object sender, RoutedEventArgs e)
+        private void Apply()
         {
             Settings.Default.Save();
+        }
+        private void cmdOK_Click(object sender, RoutedEventArgs e)
+        {
+            Apply();
+            Close();
+        }
+
+        private void cmdApply_Click(object sender, RoutedEventArgs e)
+        {
+            Apply();
         }
     }
 }

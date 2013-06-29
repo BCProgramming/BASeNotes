@@ -34,12 +34,15 @@ namespace BASeNotes
 
         private void mnuNewNote_Click(object sender, RoutedEventArgs e)
         {
-
+            NoteItem creatednote = new NoteItem("New Note", "");
+            _Notes.Add(creatednote);
+            lstNotes.SelectedItems.Clear();
+            lstNotes.SelectedItems.Add(creatednote);
         }
 
         private void mnuExit_Click(object sender, RoutedEventArgs e)
         {
-
+            Close();
         }
 
         private void mnuAbout_Click(object sender, RoutedEventArgs e)
@@ -158,6 +161,10 @@ namespace BASeNotes
 
         private void reloaddisplay()
         {
+            if (_Notes == null)
+            {
+                _Notes = new ObservableCollection<NoteItem>();
+            }
             //clear all the expanders...
             //sviewexpanders.Content = _Notes;
             //stackexpanders.Children.Clear();
@@ -362,6 +369,11 @@ void  notebox_TextChanged(object sender, TextChangedEventArgs e)
 
         private void mnuNotesNew_Click(object sender, RoutedEventArgs e)
         {
+            if (_Notes == null)
+            {
+                _Notes = new ObservableCollection<NoteItem>();
+                lstNotes.ItemsSource = _Notes;
+            }
             //add an item.
             //lstNotes.SelectedIndex = lstNotes.ItemsSource .Add(new NoteItem("New Note",""));
             var creatednote = new NoteItem("New Note");
